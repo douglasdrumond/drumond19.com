@@ -4,6 +4,7 @@ title: "Eigenclass"
 date: "2012-11-5"
 categories: ""
 tags: "Ruby"
+author: "Douglas Drumond"
 ---
 In Ruby, there’s the concept of eigenclasses, or singleton classes. These are classes implicitly defined when attaching methods to a single instance.
 

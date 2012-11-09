@@ -20,7 +20,7 @@ layout: default
       {{ post.content }}
     </div>
     <p class="byline">
-      <a href="{{ post.url }}">Posted on {{post.date | date_to_string }}</a>
+      <a href="{{ post.url }}">Posted on {{post.date | date_to_string }}</a> by {{post.author}}.
       Categories: {{ post.categories | join("\n") }}
       Tags: {{ post.tags | join("\n") }}
     </p>

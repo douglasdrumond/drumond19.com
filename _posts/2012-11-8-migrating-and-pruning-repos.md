@@ -4,6 +4,7 @@ title: "Migrating and pruning repos"
 date: "2012-11-8"
 categories: ""
 tags: "git"
+author: "Douglas Drumond"
 ---
 Recently I had to put a folder from my app repository into a separate
 repository on its own. The easiest way was just `git init` a new

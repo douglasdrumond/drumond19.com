@@ -4,6 +4,7 @@ title: "Replacing in bash without sed"
 date: "2012-11-6"
 categories: ""
 tags: "bash"
+author: "Douglas Drumond"
 ---
 Bash has built-in substitution. For simple tasks it's easier than piping through sed:
 

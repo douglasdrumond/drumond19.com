@@ -64,7 +64,7 @@
               {{ content }}
             </div>
             <p class="byline">
-              <a href="{{ page.url }}">Posted on {{page.date | date_to_string }}</a>
+              <a href="{{ page.url }}">Posted on {{page.date | date_to_string }}</a> by {{page.author}}.
               Categories: {{ page.categories | join("\n") }}
               Tags: {{ page.tags | join("\n") }}
             </p>
