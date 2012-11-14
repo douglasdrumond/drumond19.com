@@ -18,7 +18,7 @@ Wayra](http://wayra.org/en), a startup incubator located in a very cool
 building with a nice view. It was the first time [Tiete
 river](http://en.wikipedia.org/wiki/Tiete_River) looked nice.
 
-![View from building](img/evernote-hackathon/view-small.jpg)
+![View from building](/img/evernote-hackathon/view-small.jpg)
 
 I live in [Campinas](http://en.wikipedia.org/wiki/Campinas), approximately 100
 km from São Paulo. I had agreed with a friend to go by car and split the fees
@@ -50,7 +50,7 @@ all day long and pizza for dinner. Evernote wasn't cheap, there were tons of
 food and quality was nice. Red Bull and beer for free as well (it surprised me
 nobody got drunk).
 
-![People eating](img/evernote-hackathon/food-small.jpg)
+![People eating](/img/evernote-hackathon/food-small.jpg)
 
 ## Gadgets
 
@@ -120,7 +120,7 @@ Unicamp and [Bruno Mazzoco](http://www.linkedin.com/in/brunomazzoco), from
 Samsung, who also worked at Eldorado Research Institute (my former employer).
 
 
-![Unicamp and Evernote](img/evernote-hackathon/unicamp-small.jpg)
+![Unicamp and Evernote](/img/evernote-hackathon/unicamp-small.jpg)
 
 ## Conclusion
 
