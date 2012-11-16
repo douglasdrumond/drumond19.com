@@ -117,7 +117,7 @@ she was very supportive (in fact, this was very common, all Evernote staff was
 very supportive and knowledgeable, I would hire all of them if I had the chance
 ;) ). In previous Hackathons I took part at, there were nice people also, but
 in this one the availabilty of them were at another level. I didn't remember a
-time where I saw the staff slacking. Every time they're walking by and asking
+time when I saw the staff slacking. Every time they're walking by and asking
 us if everything was alright and if we needed help. Very nice.  
 
 Finally, the surprise was meeting [Ana Carolina
