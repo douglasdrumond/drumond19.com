@@ -114,10 +114,15 @@ Smith](http://www.linkedin.com/in/tylervsmith) and [Seth
 Hitchings](http://www.linkedin.com/in/tylervsmith). I hadn't interacted much
 with [Lindsey Smith](http://lsmith.me), but when I needed her opinion on my UI,
 she was very supportive (in fact, this was very common, all Evernote staff was
-very supportive and knowledgeable, I would hire all of them if I had the
-chance). The surprise was meeting [Ana Carolina
-Merighe](http://www.linkedin.com/pub/ana-carolina-merighe/2/1b3/a97), also from
-Unicamp and [Bruno Mazzoco](http://www.linkedin.com/in/brunomazzoco), from
+very supportive and knowledgeable, I would hire all of them if I had the chance
+;) ). In previous Hackathons I took part at, there were nice people also, but
+in this one the availabilty of them were at another level. I didn't remember a
+time where I saw the staff slacking. Every time they're walking by and asking
+us if everything was alright and if we needed help. Very nice.  
+
+Finally, the surprise was meeting [Ana Carolina
+Merighe](http://www.linkedin.com/pub/ana-carolina-merighe/2/1b3/a97), who studied at
+Unicamp too, and [Bruno Mazzoco](http://www.linkedin.com/in/brunomazzoco), from
 Samsung, who also worked at Eldorado Research Institute (my former employer).
 
 
@@ -128,3 +133,5 @@ Samsung, who also worked at Eldorado Research Institute (my former employer).
 It was an awesome experience and I'll do it again next year. Hackathons are
 great to meet smart people and get fresh ideas.
 
+
+*Edit: clarified __Peopleware__ section*
