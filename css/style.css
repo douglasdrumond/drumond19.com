@@ -1,17 +1,18 @@
 /* General classes -- override bootstrap elements */
 h1, h2, h3, h4, h5, h6, .page-header { font-family: 'Cabin', sans-serif; color: #333; text-align: center; }
 body { font-family: 'Droid Serif', serif; }
-.content a { display: inline-block; position: relative; padding: 3px; color: #333; background: #ddd; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+.content a { display: inline-block; position: relative; padding: 3px; color: #333; text-decoration: underline; background: none; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
 .content a:hover { color: #000; text-decoration: none; background: #aaa; }
 
 /* Layout-specific classes */
 .post-title { font-size: 36px; line-height: 96px; }
+.post-title a { text-decoration: none; }
 .post-date { font-family: 'Cabin', sans-serif; display: block; float: left; position: absolute; padding-top: 36px; font-size: 54px; color: #ddd; z-index: -4; text-align: left; }
 .post-title a, .page-header a, .sidebar a { color: #333; background: none; }
 .post-title a:hover, .page-header a:hover, .sidebar a:hover { text-decoration: none; background: none;  }
 
 .byline { font-style: italic; }
-.byline a { color: #333; border-bottom: 1px dashed #333; background: none; }
+.byline a { color: #333; border-bottom: 1px dashed #333; background: none; text-decoration: none; }
 .byline a:hover { text-decoration: none; background: none; }
 hr.post-separator { padding: 0; border: none; border-top: medium double #333; color: #333; text-align: center; }
 hr..post-separator:after { content: "§"; display: inline-block; position: relative; top: -0.7em; font-size: 1.5em; padding: 0 0.25em; background: white; }
