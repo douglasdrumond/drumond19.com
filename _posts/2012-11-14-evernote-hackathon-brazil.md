@@ -15,8 +15,9 @@ participated in two hackathons before, but the doors were shut down at night.
 The hackathon was held in [São Paulo
 city](http://en.wikipedia.org/wiki/Sao_Paulo) at [Academia
 Wayra](http://wayra.org/en), a startup incubator located in a very cool
-building with a nice view. It was the first time [Tiete
-river](http://en.wikipedia.org/wiki/Tiete_River) looked nice.
+building with a nice view. It was the first time [Pinheiros
+river](http://en.wikipedia.org/wiki/Pinheiros_River) looked nice.
+_Edited: fixed river name._
 
 ![View from building](/img/evernote-hackathon/view-small.jpg)
 
